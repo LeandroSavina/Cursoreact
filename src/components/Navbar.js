@@ -1,4 +1,4 @@
-import CartWidjet from "./CardWidjet";
+import CardWidjet from "./CardWidjet";
 
 
 
@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="header__buttons"><button>Carrito</button></div>
       
 
-      <CartWidjet />
+      <CardWidjet />
       
       
   </header>
