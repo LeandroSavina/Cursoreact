@@ -1,4 +1,4 @@
-import CartWidjet from "./CartWidjet";
+import CartWidjet from "./CardWidjet";
 
 
 

@@ -1,7 +1,7 @@
 import {TiShoppingCart} from "react-icons/ti";
 
 
-const CartWidjet = () => {
+const CardWidjet = () => {
     return <div className="card1">
 
 
@@ -10,5 +10,5 @@ const CartWidjet = () => {
 
 }
 
-export default CartWidjet;
+export default CardWidjet;
 
